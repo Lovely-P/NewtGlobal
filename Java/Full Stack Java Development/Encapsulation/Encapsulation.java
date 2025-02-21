@@ -11,11 +11,7 @@
 
     @Override
     public String toString() {
-        return "Person{" +
-                "name='" + name + '\'' +
-                ", age=" + age +
-                ", gender='" + gender + '\'' +
-                '}';
+        return "Person{" + "name='" + name + '\'' + ", age=" + age + ", gender='" + gender + '\'' + '}';
     }
 }
 public class Encapsulation {
